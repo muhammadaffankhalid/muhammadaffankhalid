@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammadaffankhalid
-- 👀 I’m interested in Data Science and Big Data
-- 🌱 I’m currently enrolled in Fast National University of Computer and Emerging Sciences
-- 💞️ I’m looking to work on data science projects
+- 👀 I’m interested in Cloud Computing.
+- 🌱 I’m currently enrolled in University of East London
+- 💞️ I’m looking to work on some interesting projects.
 - 📫 Reach me through email "chudaryaffankhalid@gmail.com"
 
 <!---
