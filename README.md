@@ -4,18 +4,8 @@
 - 💞️ I’m looking to work on some interesting projects.
 - 📫 Reach me through email "chudaryaffankhalid@gmail.com"
 
-Github Stats:
-Sure! Here's the stats section with visualizations using graphs:
-
 ---
-
-## Stats 📈
-
-### GitHub Activity
-
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadaffankhalid&theme=github)
-
-### GitHub Stats
+### GitHub Stats 📈
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadaffankhalid&show_icons=true&theme=radical)
 
